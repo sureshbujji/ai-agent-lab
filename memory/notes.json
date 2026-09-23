@@ -1,0 +1,7 @@
+{
+  "triage_BUG-101": "BUG-101: Login page crashes on Safari 17 | severity=critical | priority_score=90 | P0 - fix immediately",
+  "triage_BUG-102": "BUG-102: Checkout total off by one cent when coupon applied | severity=major | priority_score=60 | P1 - next sprint",
+  "triage_BUG-103": "BUG-103: Typo in footer copyright text | severity=trivial | priority_score=10 | P3 - low priority",
+  "triage_BUG-104": "BUG-104: Data loss when app is backgrounded during upload | severity=blocker | priority_score=100 | P0 - fix immediately",
+  "triage_BUG-105": "BUG-105: Dark mode toggle flickers on settings page | severity=minor | priority_score=30 | P2 - backlog"
+}
